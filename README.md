@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FoundIt — Integrated frontend
 
 Project ini menggabungkan desain FoundIt dengan alur Supabase dari file awal yang kamu kirim.
@@ -51,3 +52,6 @@ npm run dev
 - `src/supabase.js`: koneksi Supabase.
 - `src/index.css`: styling Tailwind dan custom CSS.
 - `schema.sql`: database policy, function, storage bucket.
+=======
+# FoundIt-Project-Layap
+>>>>>>> f9ce4cd339607fa20d7ae7b30a4496885d7267ad
